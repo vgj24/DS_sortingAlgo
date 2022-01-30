@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatastructureAlgorithmProblems", "DatastructureAlgorithmProblems.csproj", "{73FDD8E6-B1E8-4F60-86EF-59FB6968600B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FDD8E6-B1E8-4F60-86EF-59FB6968600B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FDD8E6-B1E8-4F60-86EF-59FB6968600B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FDD8E6-B1E8-4F60-86EF-59FB6968600B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FDD8E6-B1E8-4F60-86EF-59FB6968600B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8EF9C2-D043-4378-8624-96E1E80E2353}
+	EndGlobalSection
+EndGlobal

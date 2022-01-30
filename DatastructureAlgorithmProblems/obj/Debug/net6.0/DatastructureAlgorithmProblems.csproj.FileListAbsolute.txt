@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\DatastructureAlgorithmProblems.exe
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\DatastructureAlgorithmProblems.deps.json
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\DatastructureAlgorithmProblems.runtimeconfig.json
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\DatastructureAlgorithmProblems.dll
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\ref\DatastructureAlgorithmProblems.dll
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\bin\Debug\net6.0\DatastructureAlgorithmProblems.pdb
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.dll
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\ref\DatastructureAlgorithmProblems.dll
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.pdb
+C:\Users\vgj24\source\repos\DatastructureAlgorithmProblems\obj\Debug\net6.0\DatastructureAlgorithmProblems.genruntimeconfig.cache
